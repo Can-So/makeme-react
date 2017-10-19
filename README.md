@@ -9,7 +9,7 @@ Just clone the repository folder:
 ```sh
 $ git clone -b universal https://github.com/thinq4yourself/makeme-react/src bt-app
 $ cd bt-app
-$ npm install # or yarn
+$ yarn install # or npm install
 ```
 
 ## Usage
@@ -30,7 +30,7 @@ $ npm install # or yarn
 Once the dependencies are installed, use `npm start` to run a development server.
 
 ```sh
-$ npm start
+$ yarn start # or npm start
 ```
 
 ### Deploy
@@ -38,7 +38,7 @@ $ npm start
 Use `npm run build` to build the code into the `dist` folder. 
 
 ```sh
-$ npm run build
+$ yarn build # npm run build
 ```
 
 # commit and push the files
