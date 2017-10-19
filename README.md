@@ -1,6 +1,6 @@
-## Betterup test
-A Redux & React app for cool kids.
-
+## Makeme-react PRE-release
+A Redux & React app for people who need to get started fast.
+> Pre-release version with example
 
 ## Download
 
